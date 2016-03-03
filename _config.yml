@@ -1,0 +1,28 @@
+name: photos by Imran
+favicon: null
+layout_spectrum: 0.864664644934237
+typography_spectrum: 0.11113027483224869
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9152208119630814
+  lightness: 0.6068372793961316
+  saturation: 0.8009652774780989
+  rhythmicContrast: 0.19086048402823508
+purpose: []
